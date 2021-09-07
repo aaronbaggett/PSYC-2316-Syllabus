@@ -1,0 +1,13 @@
+**Dates:** 
+
+Students enrolled in EDUC 7312: Research III Advanced Design and Methods will meet together a total of five times throughout the Fall 2020 semester between 8:30 AM--12:00 PM in the Parker Academic Center (PAC) room 222
+  
+  1. Saturday, September 12, 2020, PAC 222
+  2. Saturday, October 03, 2020, PAC 222
+  3. Saturday, October 24, 2020, PAC 214
+  4. Saturday, November 14, 2020, PAC 214
+  5. \color{purple}{\bf{Saturday, December 05, 2020 (written qualifying exam), PAC TBD}}
+
+<!-- LOCATION -->
+<!-- **Location:** PAC 222 & 224   -->
+**Course Website:** \texttt{\href{https://mycourses.umhb.edu/courses/23599}{myCourses}}

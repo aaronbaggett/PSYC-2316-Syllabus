@@ -1,0 +1,25 @@
+\newpage
+
+\section{Course Calendar}
+
+\begin{tabularx}{\linewidth}{XcXr}
+\hline
+\textbf{Module} & \textbf{Cohort} & \textbf{Date} & \textbf{Reading} \\
+\hline
+
+Introduction to Data and the Normal Distribution & H.E./Nurs. & Saturday, September 12, 2020 & Chs. 01--04 \\
+ &  &  &  \\
+ 
+Foundations for Statistical Inference with Numerical and Categorical Data & H.E./Nurs. & Saturday, October 03, 2020 & Chs. 05--07 \\
+ &  &  & \\
+ 
+Introduction to Data and the Normal Distribution & P-12 & Saturday, October 24, 2020 & Chs. 01--04 \\
+ &  &  & \\
+ 
+Foundations for Statistical Inference with Numerical and Categorical Data & P-12 & Saturday, November 14, 2020 & Chs. 05--07 \\
+ &  &  &  \\
+ 
+Written Qual. Exams & ALL & Saturday, December 05, 2020 & -- \\
+ &  &  &  \\
+\hline
+\end{tabularx}

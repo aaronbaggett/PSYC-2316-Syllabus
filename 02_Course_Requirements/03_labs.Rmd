@@ -1,0 +1,38 @@
+Individual lab assignments will feature a series of guided, application-based, statistical analysis prompts that you will complete using IBM\textsuperscript{\textregistered}\ SPSS\textsuperscript{\textregistered}\ Statistics. These assignments require you to apply what you learn within each of the course modules. Each lab assignment will include a detailed set of directions available on the course website. Additionally, you will be provided a skeleton-like lab report template for each of the lab assignments. More details on completing the lab assignments will be provided in class. *Note*: These are individual assignments. All elements of the academic integrity policy will be upheld.
+
+<!-- \begin{table}[H] -->
+<!-- \begin{center} -->
+<!-- \caption{Individual Lab Assignment Dates} -->
+<!-- \label{labs} -->
+<!-- \vspace{3mm} -->
+<!-- \begin{tabular}{llr} -->
+<!-- \hline -->
+<!--  & {\bf{Topic}} & {\bf{Due}}\\ -->
+<!-- \hline -->
+<!-- 1. & Introduction to Data & 09-20-2020\\ -->
+<!-- 2. & The Normal Distribution & 10-04-2020\\ -->
+<!-- 3. & Sampling Distributions and Confidence Intervals & 10-18-2020\\ -->
+<!-- 4. & Inference for Categorical Data & 11-01-2020\\ -->
+<!-- 5. & Inference for Numerical Data & 11-08-2020\\ -->
+<!-- \hline -->
+<!-- \end{tabular} -->
+<!-- \end{center} -->
+<!-- \end{table} -->
+
+
+\begin{table}[H]
+\begin{center}
+\caption{Individual Lab Assignment Dates}
+\label{labs}
+\vspace{3mm}
+\begin{tabular}{llr}
+\hline
+{\bf{Cohort}} & {\bf{Topic}} & {\bf{Due}}\\
+\hline
+\multirow{1}{*}{H.Ed./Nurs.} & Inference for Numerical and Categorical Data & 10-19-2020\\
+& & \\
+\multirow{1}{*}{P-12} & Inference for Numerical and Categorical Data & 11-22-2020\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}

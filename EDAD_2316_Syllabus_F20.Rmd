@@ -1,0 +1,144 @@
+---
+output: 
+  pdf_document: 
+    number_sections: true
+    includes:
+      before_body: '../TeX/preamble.tex'
+      in_header: '../Tex/header.tex'
+    extra_dependencies: ['changepage']
+    keep_tex: true
+    latex_engine: xelatex
+monofont: Lucida Console
+mainfont: Times New Roman
+#fontsize: 11pt
+---
+
+\vspace{.25in}
+
+<!-- 1. COURSE INFORMATION -->
+
+\section{Concact Information}
+```{r contact_info, child = "01_Course_Information/01_contact_info.Rmd"}
+```
+
+\subsection{Description}
+```{r description, child = "01_Course_Information/02_description.Rmd"}
+```
+
+\subsection{Meeting}
+```{r meeting, child = "01_Course_Information/03_meeting_dates.Rmd"}
+```
+
+\subsection{Advanced Academic Activity}
+```{r advanced_activity, child = "01_Course_Information/04_advanced_activity.Rmd"}
+```
+
+\subsection{Course Objectives}
+```{r objectives, child = "01_Course_Information/05_course_objectives.Rmd"}
+```
+
+\subsection{Student Learning Objectives}
+```{r slos, child = "01_Course_Information/06_student_learning_outcomes.Rmd"}
+```
+
+\subsection{Credit Hour(s)}
+```{r credits, child = "01_Course_Information/07_credit_hour.Rmd"}
+```
+
+\subsection{Readings}
+```{r readings, child = "01_Course_Information/08_readings.Rmd"}
+```
+
+<!-- \subsection{Required Software} -->
+<!-- ```{r software, child = "01_Course_Information/09_required_software.Rmd"} -->
+<!-- ``` -->
+
+\subsection{Academic Integrity}
+```{r integrity, child = "01_Course_Information/10_academic_integrity.Rmd"}
+```
+
+\subsection{Disabled Student Services and Accomodations}
+```{r ada, child = "01_Course_Information/11_disabled_students.Rmd"}
+```
+
+\subsection{Course Structure}
+```{r structure, child = "01_Course_Information/12_class_structure.Rmd"}
+```
+
+\subsection{Course Communication}
+```{r communication, child = "01_Course_Information/13_course_communication.Rmd"}
+```
+
+
+<!-- 2. COURSE REQUIREMENTS -->
+
+\section{Course Requirements}
+
+\subsection{Individual Assignments}
+
+\subsubsection{Journal Article Critique}
+```{r ass_a, child = "02_Course_Requirements/01_critiques.Rmd"}
+```
+
+<!-- \subsubsection{Special Topics Team Presentation} -->
+<!-- ```{r ass_b, child = "02_Course_Requirements/02_presentations.Rmd"} -->
+<!-- ``` -->
+
+<!-- \subsubsection{Individual Data Analysis Lab Assignments} -->
+<!-- ```{r ass_k, child = "02_Course_Requirements/03_labs.Rmd"} -->
+<!-- ``` -->
+
+<!-- \subsubsection{Chapter 3 in a Nutshell} -->
+<!-- ```{r ass_k, child = "02_Course_Requirements/04_chapter_3.Rmd"} -->
+<!-- ``` -->
+
+\subsubsection{Practivce Quantitative Qualifying Exam}
+```{r ass_k, child = "02_Course_Requirements/05_qualifying_exam.Rmd"}
+```
+
+\subsection{Grade Calculation}
+```{r grade_calc, child = "02_Course_Requirements/06_grade_calculation.Rmd"}
+```
+
+
+<!-- 3. POLICIES -->
+
+\section{Policies}
+
+<!-- \subsection{Attendance} -->
+<!-- ```{r att, child = "03_Policies/01_attendance.Rmd"} -->
+<!-- ``` -->
+
+\subsection{Late Work}
+```{r late_work, child = "03_Policies/02_late_work.Rmd"}
+```
+
+
+<!-- 4. Disclaimer -->
+
+\section{Disclaimer}
+
+```{r decorum, child = "04_Disclaimer/01_disclaimer.Rmd"}
+```
+
+
+<!-- 5. COURSE CALENDAR -->
+
+```{r calendar, child = "05_Course_Calendar/01_course_calendar.Rmd"}
+```
+
+<!-- 6. CALENDAR OF DUE DATES-->
+
+```{r calendar, child = "05_Course_Calendar/02_due_dates.Rmd"}
+```
+
+
+<!-- 7. COVID STUFF -->s
+\section{CruFlex and Other Pandemic-Related Details}
+```{r cruflex, child = "07_COVID/01_covid.Rmd"}
+```
+
+<!-- CRU PLEDGE -->
+```{r cruflex, child = "07_COVID/02_crupledge.Rmd"}
+```
+

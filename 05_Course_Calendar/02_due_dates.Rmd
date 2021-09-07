@@ -1,0 +1,68 @@
+<!-- \newpage -->
+<!-- \section{Calendar of Due Dates} -->
+
+<!-- \begin{tabularx}{\linewidth}{p{4cm}Xr} -->
+<!-- \hline -->
+<!-- \textbf{Month} & \textbf{Date} & \textbf{Due} \\ -->
+<!-- \hline -->
+<!-- \multirow{4}{*}{September} & Sat., Sep. 12, 2020 & Team 1 Presentation \\ -->
+<!-- & Sat., Sep. 12, 2020 & Team 2 Presentation \\ -->
+<!-- & Sun., Sep. 20, 2020 & Lab 1: Introduction to Data \\ -->
+<!-- & Sun., Sep. 27, 2020 & Journal Article Critique 1 \\ -->
+<!-- &  &  & \\ -->
+<!-- \arrayrulecolor{gray}\hline -->
+
+<!-- \multirow{7}{*}{October} & Sat., Oct. 03, 2020 & Team 3 Presentation \\ -->
+<!-- & Sat., Oct. 03, 2020 & Team 4 Presentation \\ -->
+<!-- & Sun., Oct. 04, 2020 & Lab 2: The Normal Distribution \\ -->
+<!-- & Sun., Oct. 11, 2020 & Journal Article Critique 2 \\ -->
+<!-- & Sun., Oct. 11, 2020 & Lab 3: Sampling Distributions and Confidence Intervals \\ -->
+<!-- & Sat., Oct. 24, 2020 & Team 5 Presentation \\ -->
+<!-- & Sat., Oct. 24, 2020 & Team 6 Presentation \\ -->
+<!-- &  &  & \\ -->
+<!-- \arrayrulecolor{gray}\hline -->
+
+<!-- \multirow{4}{*}{November} & Sun., Nov. 01, 2020 & Lab 4: Inference for Categorical Data \\ -->
+<!-- & Sun., Nov. 08, 2020 & Lab 5: Inference for Numerical Data \\ -->
+<!-- & Sat., Nov. 14, 2020 & Team 7 Presentation \\ -->
+<!-- & Sat., Nov. 14, 2020 & Team 7 Presentation \\ -->
+<!-- &  &  & \\ -->
+<!-- \arrayrulecolor{gray}\hline -->
+
+<!-- &  &  & \\ -->
+<!-- \multirow{1}{*}{December} & Sat., Dec. 05, 2020 & Written Qualifying Exams \\ -->
+<!-- &  &  & \\ -->
+<!-- \arrayrulecolor{gray}\hline -->
+<!-- \end{tabularx} -->
+
+\newpage
+\section{Calendar of Due Dates}
+
+\begin{tabularx}{\linewidth}{p{3cm}Xrc}
+\hline
+\textbf{Month} & \textbf{Date} & \textbf{Due} & \textbf{Cohort} \\
+\hline
+&  &  & \\
+\multirow{1}{*}{September} & Sunday, September 27, 2020 & Lab \#1 & H.E./Nurs. \\
+&  &  & \\
+\arrayrulecolor{gray}\hline
+
+&  &  & \\
+\multirow{2}{*}{October} & Sunday, October 11, 2020 & Lab \#2 & \multirow{2}{*}{H.E./Nurs.} \\
+& Sunday, October 25, 2020 & Journal Article Critque &  \\
+&  &  & \\
+\arrayrulecolor{gray}\hline
+
+&  &  & \\
+\multirow{3}{*}{November} & Sunday, November 01, 2020 & Lab \#1 & \multirow{3}{*}{P-12} \\
+& Sunday, November 22, 2020 & Lab \#2 \\
+& Sunday, November 29, 2020 & Journal Article Critique \\
+&  &  & \\
+\arrayrulecolor{gray}\hline
+
+&  &  & \\
+\multirow{1}{*}{December} & Saturday, December 05, 2020 & Written Qualifying Exams & ALL\\
+&  &  & \\
+\arrayrulecolor{gray}\hline
+
+\end{tabularx}

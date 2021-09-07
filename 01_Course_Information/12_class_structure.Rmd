@@ -1,0 +1,8 @@
+All assignments and other coursework are completed individually. However, during and between certain class meetings you may either be assigned to or asked to form small groups in order to collaborate on data analysis projects and/or presentation(s) You will be guided through the following course learning modules. See Section 1.5 for corresponding student learning outcomes per learning module.
+
+\subsubsection{Learning Modules}
+
+EDAD 7312 is divided into two (2) learning modules:
+
+1. Introduction to Data and the Normal Distribution
+2. Foundations for Statistical Inference with Numerical and Categorical Data

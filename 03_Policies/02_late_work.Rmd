@@ -1,0 +1,15 @@
+All assignments are considered late if submitted after the date and time specified in the syllabus and/or course website. This policy will be enforced in the event that assignment deadlines are revised during the course of the term.  Assignments submitted late will result in a penalty of 20 percentage points per day.
+
+For example, if an assignment is due on November 14, 2020 and is submitted within 24 hours of the due date and time that assignment will result in an automatic deduction of 20 percentage points from the assignment raw score.  In other words, if you submit an assignment worth 10 points on November 15, 2020, and the assignment was originally due November 14, 2020, and you score a 9.5/10, then your new score would be:
+
+\begin{equation}
+9.5 - (9.5)(0.20) \times 100 = 7.6.
+\end{equation}
+
+Assignments submitted more than five calendar days late will receive a grade of zero.  To ensure fairness, this policy will be strictly enforced.  Exceptons are made at the discretion of the instructor and may include, but are not limited to:
+
+1. Death in the immediate family (parent, spouse, sibling, child)
+2. Unforeseeable medical emergency affecting yourself, your spouse, or your child (e.g., automobile accident, major sickness, et al.).
+2. Participation in an official UMHB-sponsored event
+
+*Note*: Routine medical appointments or clinical visits related to minor illnesses do not qualify as an unforeseeable medical emergency.  Likewise, conflicts with a work schedule or trips not related to official UMHB events do not qualify for assignment absolution.

@@ -1,0 +1,13 @@
+It is the student’s responsibility to request disability accommodations. Students requesting an accommodation for a disability, must contact the UMHB \href{http://cths.umhb.edu/disability}{\texttt{Counseling, Testing \& Health Services}} as early as possible in the term. \href{http://catalog.umhb.edu/en/2019-2020/Graduate-Catalog}{\texttt{The Course Catalog}}, \href{http://students.umhb.edu/student-handbook}{\texttt{Student Handbook}} and \href{https://go.umhb.edu/}{\texttt{UMHB website}} provide more details regarding the process by which accommodation requests will be reviewed.
+
+For more information, please contact:
+
+**Blayne Alaniz, Director of Student Disability Services and Testing Services**  
+\begin{adjustwidth}{2.5em}{0pt}
+UMHB Box 8437
+900 College Street  
+Belton, Texas 76513  
+Office: (254) 295-4739  
+Fax: (254) 295-4196  
+Email: \texttt{\href{mailto:balaniz@umhb.edu}{balaniz@umhb.edu}}  
+\end{adjustwidth}

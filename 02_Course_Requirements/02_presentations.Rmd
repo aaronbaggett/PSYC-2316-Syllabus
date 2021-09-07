@@ -1,0 +1,50 @@
+This assignment consists of small groups of students presenting one or more special topics from a section(s) of assigned readings from the respective module. Teams should prepare a thorough lecture with accompanying slides, handouts, etc. You should use no fewer than three additional academic resources, not counting the textbook, to supplement your presentation. Lectures should be organized, rigorous, and comprehensive. You should assume the burden of responsibility for providing your peers everything you can in order to ensure they have as complete an understanding about your assigned topic(s) as you and your partner. They will do the same. <!-- *A detailed submission template and grading rubric will be provided*. -->
+
+See \texttt{\href{https://bit.ly/3hrdx08}{Special Topics Presentations}} under Files in the course Canvas page for your team's assigned topics.
+
+Team numbers and student pairs were generated using a random sampling permutation method. Based on the team number, chapter assignments and dates were implemented by the instructor.
+
+\begin{table}[H]
+\begin{center}
+\caption{Special Topics Team Presentation Dates}
+\vspace{3mm}
+\begin{tabular}{clll}
+\hline
+\textbf{Team} & \textbf{Students} & \textbf{Topics} & \textbf{Presentation Date} \\
+\hline
+
+\multirow{2}{*}{1.} & Darla Forsberg & \multirow{2}{*}{Ch. 1} & \multirow{2}{*}{Saturday, September 12, 2020} \\
+& Jeanette Jacobs &  &  \\
+\hline
+
+\multirow{2}{*}{2.} & Katy Trotty & \multirow{2}{*}{Ch. 2} & \multirow{2}{*}{Saturday, September 12, 2020} \\
+& Julia Venghaus &  &  \\
+\hline
+
+\multirow{2}{*}{3.} & Athina Katseyeanis & \multirow{2}{*}{Ch. 4} & \multirow{2}{*}{Saturday, October 03, 2020} \\
+& Douglas Schroder &  &  \\
+\hline
+
+\multirow{2}{*}{4.} & Deena Cornblum & \multirow{2}{*}{Ch. 5} & \multirow{2}{*}{Saturday, October 03, 2020} \\
+& Eugenie Snaith &  &  \\
+\hline
+
+\multirow{2}{*}{5.} & Ashley Bernard & \multirow{2}{*}{Ch. 6} & \multirow{2}{*}{Saturday, October 24, 2020} \\
+& Devita Jo Joy &  &  \\
+\hline
+
+\multirow{2}{*}{6.} & Gara Alexander & \multirow{2}{*}{Ch. 6} & \multirow{2}{*}{Saturday, October 24, 2020} \\
+& Allison Younger &  &  \\
+\hline
+
+\multirow{2}{*}{7.} & Heather Metzgar & \multirow{2}{*}{Ch. 7} & \multirow{2}{*}{Saturday, November 14, 2020} \\
+& Danielle Whitehead &  &  \\
+\hline
+
+\multirow{2}{*}{8.} & Damon Adams & \multirow{2}{*}{Ch. 7} & \multirow{2}{*}{Saturday, November 14, 2020} \\
+& Amber Thompson &  &  \\
+\hline
+
+\end{tabular}
+\end{center}
+\end{table}

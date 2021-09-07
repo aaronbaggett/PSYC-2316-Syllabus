@@ -1,0 +1,44 @@
+\subsubsection{Individual and Team Performance}
+Table 3 below lists all assignments, their point value, and proportion of weighted total. See Table 2 for final grade calculation and letter grade distribution.
+
+\begin{table}[H]
+\centering
+\caption{Individual Assignments and Point Values}
+\vspace{3mm}
+\label{points}
+\begin{tabular}{lllrlrr}
+\hline
+\bf{Assignment} & \bf{\em{n}} &  & \bf{Points} &  & \bf{Total} & \bf{Prop.} \\
+\hline
+Journal Article Critique & 1 & $\times$ & 100 & = & 100 & .50\\
+% Special Topics Team Presentations & 1 & $\times$ & 100 & = & 100 & .20\\
+% Individual Lab Assignments & 1 & $\times$ & 50 & = & 50 & .30 \\
+% Chapter 3 in a Nutshell & 1 & $\times$ & 100 & = & 100 & .50 \\
+Practice Quantitative Qualifying Exam & 1 & $\times$ & 100 & = & 100 & .50 \\
+\multicolumn{4}{r}{\bf{Individual Performance Total}} & {\bf{=}} & {\bf{200}} & {\bf{1.00}} \\
+\hline
+\end{tabular}
+\label{points}
+\end{table}
+
+\subsubsection{Final Grade Calculation}
+All course grades will be posted in the gradebook in myCourses. All point totals and proportional weights listed in Table 3 are reflected in myCourses. Thus, your current grade in myCourses should reflect your actual grade. Table 4 below describes the point range required to achieve a given letter grade.
+
+\begin{table}[H]
+\begin{center}
+\caption{Final Grade Point Range Requirements}
+\label{finalgrades}
+\vspace{3mm}
+\begin{tabular}{cccc}
+\hline
+\bf{Grade} & \bf{Point Range} & \bf{Percentage} & \bf{Grade Points}\\
+\hline
+A & 180.00 -- 200.00 & 90 -- 100 & 4.0\\ 
+B & 160.00 -- 178.00 & 80 -- 89  & 3.0\\ 
+C & 140.00 -- 158.00 & 70 -- 79  & 2.0\\ 
+D & 120.00 -- 138.00 & 60 -- 69  & 1.0\\ 
+F & 000.00 -- 118.00 & 00 -- 59  & 0.0\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}

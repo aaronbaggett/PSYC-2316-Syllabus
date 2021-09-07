@@ -1,0 +1,20 @@
+Any data and statistical analyses in EDAD 7312 will be conducted using IBM\textsuperscript{\textregistered}\ SPSS\textsuperscript{\textregistered}\ Statistics. During class meetings, students may access local SPSS\textsuperscript{\textregistered}\ installations on campus computers. However, you may consider purchasing at least a 6-month license to download and install SPSS\textsuperscript{\textregistered}\ on your own computer(s). Below are a few online educational software retailers who offer heavily discounted versions of IBM\textsuperscript{\textregistered}\ SPSS\textsuperscript{\textregistered}\ Statistics for students. 
+
+*Note*: As of \today, the latest version number is 27 However, versions 23, 24, 25, and 26 should also be compatible for all data analyses conducted throughout this course. Keep in mind previous versions sell for the same price as the current version. Prior to purchasing SPSS\textsuperscript{\textregistered}\ be sure you are selecting the versions compatible with your particular computer's operating system (i.e., Windows, macOS, etc.). IBM\textsuperscript{\textregistered}\ SPSS\textsuperscript{\textregistered}\ Statistics is not compatible with iOS, iPadOS, or Chrome OS.
+
+**How to purchase SSPS:**
+
+\begin{tcolorbox}
+[width=\linewidth, sharp corners=all, colback=white!95!red]
+NOTE: IBM\textsuperscript{\textregistered}\ SPSS\textsuperscript{\textregistered}\ Statistics Standard GradPack will be sufficient for EDUC 7310. No need to purchase the Premium GradPack.
+\end{tcolorbox}
+
+1. \texttt{\href{https://onthehub.com/spss/}{OnTheHub}}
+    1. Select **Students** buy now.
+    2. Scroll down until you find your computer's operating system (i.e., Windows, macOS, etc.) and your desired rental duration (i.e., 06- or 12-month).
+    3. Add to Cart.
+
+2. \texttt{\href{https://www.journeyed.com/products/IBM+SPSS/IBM+SPSS+Statistics}{journeyEd}}
+    1. Scroll to approximately one-third of the way down the page and look for **IBM SPSS Statistics Standard Grad Pack 27.0 Academic**.
+    2. Select the link applicable to your operating system.
+    3. Note: only 12-month licenses are available from journeyEd.

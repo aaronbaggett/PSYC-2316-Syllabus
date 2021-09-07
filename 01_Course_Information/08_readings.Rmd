@@ -1,0 +1,18 @@
+Students are required to obtain a copy of the following required textbook.
+
+\begin{hangparas}{.4in}{1}
+Diez, D. M.,  \c{C}etinkaya-Rundel, M., \& Barr, C. D. (2019).  {\em{OpenIntro statistics}} (4\textsuperscript{th} ed.).  OpenIntro.
+\end{hangparas}
+
+How to access the textbook:
+
+**PDF:**
+
+  - Direct download: [$0.00](https://mycourses.umhb.edu/files/2418308/download?download_frd=1)
+
+**PRINT:**
+
+  - B&W paperback: [$17](https://amzn.to/3lQoivq)
+  - Full color paperback: [$60](https://amzn.to/3lRI8GD)
+
+Any additional assigned readings will be provided on the \texttt{\href{https://mycourses.umhb.edu/courses/23599}{course website}} under the \texttt{\href{https://mycourses.umhb.edu/courses/23599/files/folder/Readings}{Readings}} tab.

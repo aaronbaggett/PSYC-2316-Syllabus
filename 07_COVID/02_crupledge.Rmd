@@ -1,0 +1,41 @@
+\newpage
+
+\begin{center}
+\color{violet}{\bf{\large{The Cru Health and Safety Pledge}}}
+\end{center}
+
+\vspace{.25cm}
+
+As a member of the UMHB community, to responsibly help mitigate the potential spread of COVID-19, I promise to:
+
+**CARE FOR MYSELF AND OTHERS:**
+
+\begin{itemize}
+\item Read and comply with the Safe Return to Campus plan, which includes training materials and health/safety protocols. 
+\item Follow all UMHB health and safety protocols 
+\item Conduct daily self-screening. 
+\item Stay home and not enter campus facilities if I feel sick. 
+\item Stay home and not enter campus facilities if I have been exposed to someone who has tested positive for COVID-19. 
+\item Properly wear a face covering when in common areas of campus, including all classrooms. 
+\item Wash or sanitize my hands often. 
+\item Follow social distancing protocols (at least 6 feet of distance and limitations on numbers of individuals gathering in a common location) both on and off campus, not making assumptions about who may be more vulnerable to contracting this illness. 
+\item Keep my clothing, belongings, personal spaces and shared common spaces clean, and not share personal items such as cell phones, eating utensils and water bottles with others, which could spread the COVID-19 virus.
+\end{itemize}
+
+**RESPECT OUR CAMPUS AND SURROUNDING COMMUNITY:**
+
+\begin{itemize}
+\item Follow all directions given by university officials and displayed on university signage. 
+\item Be respectful and responsive when others remind me of these health and safety protocols. 
+\item Pay attention to and observe national, state and local directives. 
+\item Remember that not everyone is affected the same by COVID-19. By complying with COVID-19 health guidelines, I will help those who are most vulnerable to stay safe. 
+\end{itemize}
+
+**REPORT**
+
+\begin{itemize}
+\item Stay home and immediately notify Dr. Brandon Skaggs at (214) 704-1168 or Michael Burns at (405) 308-7336 or \texttt{\href{mailto:student.covid@umhb.edu}{student.covid@umhb.edu}} should I develop any of these symptoms: cough, shortness of breath or difficulty breathing, chills, repeated shakes with chills, muscle pain, headache, sore throat, loss of taste or smell, diarrhea, feeling feverish or a measured temperature of 100 F; or if I have known close contact with someone who is lab-confirmed positive to have COVID-19. 
+\item I understand that contacting other faculty or staff does not fulfill my duty to immediately report to Dr. Skaggs or Mr. Burns.
+\end{itemize}
+
+I acknowledge that this Promise is a condition of my ability to participate in the 2020-21 academic year and utilize university facilities.  My failure to comply may lead to immediate removal from classes, from campus and/or the inability to use certain facilities.  Violations of this Promise will be referred, reviewed and adjudicated in accordance with the procedure outlined in \texttt{\href{https://go.umhb.edu/students/student-handbook}{UMHB’s Code of Student Conduct}}.
